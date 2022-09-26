@@ -39,7 +39,7 @@ We're an open source movement that depends on your support to stay online and th
 - [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
 - [Course](https://unsplash.com/photos/JKUTrJ4vK00)
 
-## Latest news
+## Latest News:
 
 <!--START_SECTION:news-->
 
