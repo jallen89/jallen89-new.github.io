@@ -41,6 +41,7 @@ We're an open source movement that depends on your support to stay online and th
 
 ## Latest News:
 
+
 <!--START_SECTION:news-->
 
 - [Easily make an academic CV website to get more cites and grow your audience 🚀](https://wowchemy.com/blog/easily-make-academic-website/)
